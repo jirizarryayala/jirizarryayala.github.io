@@ -1,6 +1,6 @@
 <nav>
   <a href="{{ '/' | relative_url }}">Home</a> |
-  <a href="{{ '/About' | relative_url }}">About Me</a> |
+  <a href="{{ '/about' | relative_url }}">About Me</a> |
   <a href="{{ '/' | relative_url }}">Publications</a> |
   <a href="{{ '/' | relative_url }}">News</a>
   <a href="{{ '/' | relative_url }}">Contact Me</a>
